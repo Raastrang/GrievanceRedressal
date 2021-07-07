@@ -1,0 +1,17 @@
+table{
+    color: black;
+    border: 1px black solid;
+    margin-top: 20%;
+    margin-left: 15%;
+}
+td,th{
+    border: 1px black solid;
+    
+}
+#tableda{
+    color:#cc0000;
+}
+
+#sessionstart{
+    margin-top:24px;
+}

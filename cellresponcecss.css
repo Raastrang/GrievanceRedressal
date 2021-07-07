@@ -1,0 +1,42 @@
+#texta{
+    background-color: lightcyan;
+     border: 2px black solid;
+     border-radius: 1%;
+     margin-top:3%;
+     margin-right: 69%;
+     
+     }
+.com{
+ margin-left: 21%; 
+}
+#subm{
+   background-color: green;
+   border-radius:1% black;
+   margin-right: 76%;
+}
+#back{
+    background-color: red;
+    border-radius:1% black;
+   margin-right: 61%;
+   margin-top:0px;
+}
+#session{
+    font-size: 19px;
+    margin-top: 11%;
+    margin-right:2px;
+    color: blue;
+    
+}
+#button{
+    color: red;
+    border-radius: 5px;
+    
+    margin-left: 73%;
+    
+}
+#sessionstart{
+    font-size: 19px;
+    margin-top: 11%;
+    margin-right:2px;
+    color: blue;
+}

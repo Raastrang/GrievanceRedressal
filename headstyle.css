@@ -1,0 +1,151 @@
+body{min-height: 100%;
+	padding: 0px;
+	margin: 0px;
+	background: #f5f5f5 url('../image/homeimage.jpg') left top repeat;
+	position: relative;
+	font-family: 'Oswald', sans-serif;
+	font-size: 12px;
+	color: #656d78;
+	overflow-x: hidden;
+}
+.body-content{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.heading{
+    display: block;
+    width: fit-content;
+    height:max-content;
+    
+}
+
+.logo {
+    float: left
+
+}
+.logo-txt {
+    float: left;
+    text-align: left;
+    padding-left: 10px;
+    padding-top:0px;
+    font-size: large;
+}
+
+
+.website{
+    text-decoration: none;
+    text-align: left;
+    display: block;
+    width: max-content;
+    font-size: 20px;
+    margin-top: -20px;
+    color: #000;
+}
+.website a{
+    color: #000;
+    text-decoration: none;
+    background-color: #ffffff;
+}
+
+.mono {
+    float: left;
+    height: 140px;
+    margin-top: 16px;
+    width: 140px;
+
+}
+.grp{
+    display: block;
+    float: left;
+    font-size: 15px;
+    text-decoration:underline;
+    margin-top: -60px;
+    color: red;
+    
+}
+.aimage{
+    width: 200px;
+    height: 150px;
+    border: 2px solid #ddd;
+    border-radius:200px;
+}
+
+.main-content{
+    padding-top: 200px;
+     display:  block;
+     margin-left: 10px;
+     align-items: flex-start;
+    
+}
+.main-content table{
+    align-content: stretch;
+}
+.space{
+    
+}
+
+.loginbox{
+    margin-bottom: 100px;
+    width: 320px;
+    height: 420px;
+    background: none;
+    color:black;
+   float: left;
+   display: block;
+    padding: 40px;
+    border: 1px solid black;
+    border-radius: 20px ;
+}
+.student{
+    padding-left: 100px;
+    width: 100px;
+    height: 100px;
+    display: block;
+    alignment-adjust:central;
+    
+}
+.loginbox p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+.loginbox input{
+    width:100%;
+    margin-bottom: 20px;
+}
+.loginbox input[type="text"], input[type="password"]
+{
+    border:none;
+    border-bottom: 1px solid black;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color:black;
+    font-size: 16px;
+}
+.loginbox input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #fb2525;
+    color: black;
+    font-size: 18px;
+    border-radius: 20px;
+}
+.loginbox input[type="submit"] :hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+.loginbox a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: black;
+}
+.loginbox a:hover
+{
+    color: #ff00ff;
+}

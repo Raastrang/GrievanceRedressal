@@ -1,0 +1,126 @@
+
+.bg-image {
+  /* The image used */
+  background-image: url("../image/homeimage.jpg");
+  
+  
+  /* Add the blur effect */
+  /*filter: blur(8px);*/
+  /*-webkit-filter: blur(8px);*/
+
+  /* Full height */
+   
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.body-content{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.logo {
+	float: left
+         
+}
+.logo-txt {
+	float: left;
+	text-align: left;
+        padding-left: 10px;
+        padding-top:20px;
+        font-size: x-large;
+}
+
+.mono {
+	float: left;
+    height: 180px;
+    margin-top: 16px;
+    width: 200px;
+    
+}
+.grp{
+    text-align: center;
+    font-size: medium;
+}
+.aimage{
+
+   
+    width: 200px;
+    height: 150px;
+    border: 2px solid #ddd;
+    border-radius:200px;
+    
+    
+}
+.simage{
+
+    
+    width: 200px;
+    height: 150px;
+     border: 2px solid #ddd;
+    border-radius:200px;
+    
+    
+}
+.pimage{
+
+        width: 200px;
+    height: 150px;
+     border: 2px solid #ddd;
+    border-radius:200px;
+    
+    
+}
+.gcmimage{
+
+       width: 200px;
+    height: 150px;
+     border: 2px solid #ddd;
+    border-radius:200px;
+    
+    
+}
+.fimage{
+
+        width: 200px;
+    height:150px;
+     border: 2px solid #ddd;
+    border-radius:200px;
+    
+    
+}
+.mimage{
+
+   
+    width: 200px;
+    height: 150px;
+     border: 2px solid #ddd;
+    border-radius:200px;
+    
+    
+}
+.himage{
+
+    
+    width: 200px;
+    height: 150px;
+     border: 2px solid #ddd;
+    border-radius:200px;
+    
+    
+}
+.cimage{
+
+       width: 200px;
+    height: 150px;
+     border: 2px solid #ddd;
+    border-radius:200px;
+    
+    
+}
+
+
+
+
